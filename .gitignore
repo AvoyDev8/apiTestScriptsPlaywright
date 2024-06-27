@@ -1,0 +1,5 @@
+/node_modules
+/jsonFiles
+/allure-results
+/tests-examples
+/package-lock.json
